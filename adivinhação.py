@@ -36,3 +36,5 @@ for rodada in range (0, totalDeRodadas+1):
         print("\n\nParabéns você acertou o número!\n\n")
         break
     rodada +=1    
+
+print("\nFim do jogo\n")
